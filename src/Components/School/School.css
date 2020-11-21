@@ -1,0 +1,8 @@
+.school{
+    display: flex;
+    
+}
+.course-container{
+    width: 70%;
+    border-right: 2px solid lightgray;
+}

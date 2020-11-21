@@ -1,0 +1,9 @@
+.course{
+    display: flex;
+    border-bottom: 2px solid lightgray;
+    padding: 5px;
+}
+.course img{
+    width: 100px;
+    margin: 10px;
+}
